@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "@thirdweb-dev/react": "^3.14.6",
-    "@thirdweb-dev/sdk": "^3.14.6",
+    "@thirdweb-dev/react": "^3.16.5",
+    "@thirdweb-dev/sdk": "^3.16.5",
     "ethers": "^5.7.2",
     "framer-motion": "^10.12.4",
     "react": "^18.2.0",
